@@ -8,9 +8,10 @@
 
 - BAFrontend: https://github.com/bafrontend/charlas/issues
 - Baires Web: https://github.com/bairesweb/charlas/issues
+- GraphQL Buenos Aires: https://github.com/GraphqlBA/charlas/issues
+- LaPlataJS: https://github.com/laplatajs/charlas/issues
 - Meetup.js: https://github.com/meetupjs-ar/charlas/issues
 - Node.js Buenos Aires: https://github.com/banodejs/charlas/issues
-- GraphQL Buenos Aires: https://github.com/GraphqlBA/charlas
 
 ## Licencia
 
